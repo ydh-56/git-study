@@ -1,0 +1,23 @@
+{
+  "name": "git-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ydh-56/git-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ydh-56/git-study/issues"
+  },
+  "homepage": "https://github.com/ydh-56/git-study#readme",
+  "dependencies": {
+    "chart.js": "^3.9.1",
+    "moment": "^2.29.4"
+  }
+}
